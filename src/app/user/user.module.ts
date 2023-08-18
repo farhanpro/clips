@@ -12,7 +12,8 @@ import { RegisterComponent } from './register/register.component';
   declarations: [
     AuthModalComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+   
   ],
   imports: [
     CommonModule,
